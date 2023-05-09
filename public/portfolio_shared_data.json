@@ -29,8 +29,8 @@
           "level": "95"
         },
         {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
+          "name": "ReactJS",
+          "class": "devicon-react-plain",
           "level": "90"
         },
         {
@@ -47,6 +47,16 @@
           "name": "C#",
           "class": "devicon-csharp-plain",
           "level": "65"
+        },
+        {
+          "name":"Node",
+          "class":"devicon-nodejs-plain",
+          "level":"5"
+        },
+        {
+          "name":"Git",
+          "class":"devicon-git-plain",
+          "level":"98"
         }
       ]
     }

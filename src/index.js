@@ -15,12 +15,3 @@ window.$secondaryLanguageIconId = 'secondary-lang-icon';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(<App />);
 serviceWorker.register();
-
-const Contact = () => {
-
-    return (
-        <>
-            <div classname='container contact-page'></div>
-
-        </>)
-}

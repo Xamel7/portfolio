@@ -82,7 +82,7 @@
   "experience": [
     {
       "company": "The Code Crew",
-      "title": "Entry Level Software Developer",
+      "title": "Software Developer",
       "years": "2023 - present",
       "mainTech": [
         ""
@@ -92,7 +92,10 @@
         "Bootstrap",
         "C#",
         "HTML",
-        "CSS"
+        "CSS",
+        "NodeJS",
+        "ReactJS",
+        "Git"
       ]
     }
   ]
